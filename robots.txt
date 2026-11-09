@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://VOTRE-NOM.github.io/educ-express/sitemap.xml
+Sitemap: https://rahim025.github.io/Educ-Epress-/sitemap.xml
